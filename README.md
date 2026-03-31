@@ -12,7 +12,7 @@ cursor-byok-server 是 Cursor助手的Pro模式的服务端。无限量支持tab
 - [客户端（未开源）](https://dcne38qm5vlg.feishu.cn/wiki/YGaWw1ejXiiJ8EkismtcoIYUnNd) 
 
 #### 注意
-本服务是为Cursor助手中的一个模式的服务端转发作为中期临时过渡，Cursor助手的核心能力在于**本地模式**，当**本地模式**生产可用时，此服务将被弃用
+本服务是为Cursor助手中的一个模式的服务端转发，Cursor助手的核心能力在于**本地模式**，此服务作为中期临时过渡，当**本地模式**生产可用时，此服务将被弃用
 
 #### 构建和部署
 - 仅推荐Docker构建和部署。
