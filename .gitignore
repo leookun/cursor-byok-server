@@ -1,0 +1,6 @@
+.DS_Store
+config.yaml
+config.local.yaml
+*.log
+cursor-tab-server
+dist/

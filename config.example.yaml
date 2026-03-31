@@ -1,0 +1,5 @@
+# Copy this file to config.yaml before running the service.
+# 运行服务前，请先将此文件复制为 config.yaml。
+# The value below is a placeholder and will be rejected at startup.
+# 下方的值只是占位符，若不替换，服务启动时会直接报错。
+token: "REPLACE_WITH_REAL_CURSOR_SESSION_TOKEN"
